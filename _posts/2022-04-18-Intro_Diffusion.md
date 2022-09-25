@@ -231,7 +231,7 @@ You can download the [lecture note version](/images//Intro_Diffusion/220418_Intr
 
 ## Citation
 ``
-Shin, Woncheol. (April 2022). Introduction to Diffusion Models Shin’s Blog. https://wcshin-git.github.io/posts/2022/04/18/Intro_Diffusion/.
+Shin, Woncheol. (April 2022). Introduction to Diffusion Models Shin’s Blog. https://wcshin-git.github.io/2022/04/18/Intro_Diffusion.html.
 ``
 
 Or
@@ -243,6 +243,6 @@ Or
   journal = "wcshin-git.github.io",
   year    = "2022",
   month   = "April",
-  url     = "https://wcshin-git.github.io/2022/04/18/Intro_Diffusion/"
+  url     = "https://wcshin-git.github.io/2022/04/18/Intro_Diffusion.html"
 }
 ```
