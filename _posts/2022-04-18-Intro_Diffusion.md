@@ -228,6 +228,12 @@ You can download the [lecture note version](/images//Intro_Diffusion/220418_Intr
 ![Example Slide 2](/images//Intro_Diffusion/slide2.png)
 *Fig. 5. Example slide 2*
 
+## References
+
+[1] Weng, Lilian. (Jul 2021). What are diffusion models? Lil’Log. https://lilianweng.github.io/posts/2021-07-11-diffusion-models/.
+
+[2] Jonathan Ho et al. “Denoising diffusion probabilistic models.” arxiv Preprint arxiv:2006.11239 (2020).
+
 
 ## Citation
 ``
