@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I completed my M.Sc. in Graduate School of AI at KAIST. 
-I am fortunate to have Prof. [Edward Choi](https://mp2893.com/) as my advisor.
+I earned my M.Sc. from the Graduate School of AI at KAIST, where I had the privilege of being advised by Prof. [Edward Choi](https://mp2893.com/).
 
 GitHub:
 [wcshin-git][github]
